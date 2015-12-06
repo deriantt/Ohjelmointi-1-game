@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>exp.mp3</Source>
+      <Name>exp</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\exp.xnb</Output>
+      <Extra>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\exp.wma</Extra>
+      <Time>2011-12-07T18:25:19.7928552+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Ship.png</Source>
+      <Name>Ship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\Ship.xnb</Output>
+      <Time>2011-12-12T03:26:17.3790848+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tausta1.mp3</Source>
+      <Name>Tausta1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\Tausta1.xnb</Output>
+      <Extra>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\Tausta1.wma</Extra>
+      <Time>2011-12-09T00:01:05.9178077+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Lentokone.mp3</Source>
+      <Name>Lentokone</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\Lentokone.xnb</Output>
+      <Extra>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\Lentokone.wma</Extra>
+      <Time>2011-12-09T00:04:16.0666836+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Lentokone1.mp3</Source>
+      <Name>Lentokone1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\Lentokone1.xnb</Output>
+      <Extra>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\Lentokone1.wma</Extra>
+      <Time>2011-12-09T00:06:00.8226753+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tausta.mp3</Source>
+      <Name>Tausta</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Deniz\documents\visual studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\Tausta.xnb</Output>
+      <Extra>C:\Users\Deniz\documents\visual studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\Tausta.wma</Extra>
+      <Time>2011-12-09T11:46:04.2432493+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ammus.png</Source>
+      <Name>ammus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Deniz\documents\visual studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\ammus.xnb</Output>
+      <Time>2011-12-12T05:29:07.2696184+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Newspaper.jpg</Source>
+      <Name>Newspaper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Deniz\documents\visual studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\Newspaper.xnb</Output>
+      <Time>2011-12-10T20:24:06.5098773+02:00</Time>
+    </Item>
+    <Item>
+      <Source>JapAttack.jpg</Source>
+      <Name>JapAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Deniz\documents\visual studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\JapAttack.xnb</Output>
+      <Time>2011-12-10T20:33:11.535051+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EpicMusic.mp3</Source>
+      <Name>EpicMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Deniz\documents\visual studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\EpicMusic.xnb</Output>
+      <Extra>C:\Users\Deniz\documents\visual studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\EpicMusic.wma</Extra>
+      <Time>2011-12-10T20:47:32.9863232+02:00</Time>
+    </Item>
+    <Item>
+      <Source>JapOikea.png</Source>
+      <Name>JapOikea</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\JapOikea.xnb</Output>
+      <Time>2011-12-11T19:59:57.5198836+02:00</Time>
+    </Item>
+    <Item>
+      <Source>JapVasen.png</Source>
+      <Name>JapVasen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\JapVasen.xnb</Output>
+      <Time>2011-12-12T02:47:08.0227093+02:00</Time>
+    </Item>
+    <Item>
+      <Source>JapAlas.png</Source>
+      <Name>JapAlas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\JapAlas.xnb</Output>
+      <Time>2011-12-12T03:06:03.1246334+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SinkingShip.jpg</Source>
+      <Name>SinkingShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\SinkingShip.xnb</Output>
+      <Time>2011-12-20T07:25:40.1222886+02:00</Time>
+    </Item>
+    <Item>
+      <Source>vesi.png</Source>
+      <Name>vesi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\vesi.xnb</Output>
+      <Time>2011-12-22T05:12:23.1017981+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3EF40FCC-FAEC-4998-BEE8-98EFF4E634D2}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJapsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Deniz\Documents\Visual Studio 2010\Projects\CrazyJaps\CrazyJaps\CrazyJaps\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Jypeli\lib\ContentExtensions\TextFileContentExtension.dll</Key>
+        <Value>2011-12-04T17:13:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-07-08T02:33:26+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-07-08T02:33:24+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-07-08T02:33:24+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-07-08T02:33:26+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-07-08T02:33:24+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-07-08T02:33:24+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-09-05T22:29:44.8128507+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
